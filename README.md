@@ -37,9 +37,8 @@ re总结，则是记录自己刷逆向ctf题的笔记，还简单做了一些分
 ![逆向工程核心原理](https://user-images.githubusercontent.com/39674475/223358877-dd5cc5dd-8191-424d-b937-05608dfc4efa.png)
 
 ### pwn做题方法论
-![pwn总结](https://user-images.githubusercontent.com/39674475/223364607-3329ed8e-e66d-4a2e-b0f5-7364f604625f.png)
 
-本人不是刻意去做笔记，而是搞安全知识点真的太多，被逼天天做笔记！
+不是刻意在做笔记，而是搞安全知识点真的太多，被逼天天做笔记！
 
 最初记笔记就像贴便签，看见知识点就随便一记，这种笔记记下来它就不见了，找的时候就要抓狂。而搞安全要不停回溯一堆特别细的知识点，于是，每抓狂一次，我就重新整理一次笔记，不知不觉，笔记居然有了高度分化的结构。
 
@@ -49,12 +48,23 @@ pwn总结这个笔记就是我反复查阅、反复使用，总结下来的做�
 
 再按照这几个步骤整理知识点，就算几个月没刷题忘关了，看一眼笔记就能立马想起来。当然，这个主要还是写给自己看的，过于精简，不适合分享给别人。
 
+（不过太过精简，过几年连名词都忘了，可能真的就连自己都看不懂了）
+
+![pwn总结](https://user-images.githubusercontent.com/39674475/223364607-3329ed8e-e66d-4a2e-b0f5-7364f604625f.png)
+
 ### 堆
-![image](https://user-images.githubusercontent.com/39674475/223364276-1cf7b474-395f-40c8-85d5-e700870e9aec.png)
+堆漏洞的利用需要对malloc和free的源代码非常熟悉，只是看懂是完全不够的，经过多次整理，我把源代码拆解成笔记，方便快速查阅。
 
 
+
+利用方法分类则主要参考how2heap，按照libc库的版本来分类利用方法，又根据自己的学习补充了每种利用的使用条件，实现步骤和利用方法。
+
+![堆结构体](https://user-images.githubusercontent.com/39674475/223364276-1cf7b474-395f-40c8-85d5-e700870e9aec.png)
+![堆实现](https://user-images.githubusercontent.com/39674475/223366484-1dc5678c-c05c-4da3-bdd9-a160cf567cc9.png)
+![fastbin](https://user-images.githubusercontent.com/39674475/223366595-449e65e0-68ad-4109-8754-e0d8b9fc6997.png)
 
 ### linux和c知识
+
 
 ### 调试
 
