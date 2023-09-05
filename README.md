@@ -112,7 +112,9 @@ youtube上有很多很有用的up主，感觉知识永远学不完：
 
 还有很多，就不举例了，看完一个就要不少时间
 
-![image](https://user-images.githubusercontent.com/39674475/223427621-1b1b628b-d9cf-4bc7-9a62-9815af9c9624.png)
+之后自学了部分内核源码和工作流程，工作原因又了解了一些内核安全模块知识
+![image](https://github.com/dontminddontmind/onenote_pwn/assets/39674475/976206af-c3f0-443c-ba66-3b25fc975c8e)
+
 
 
 
