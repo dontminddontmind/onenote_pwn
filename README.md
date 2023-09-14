@@ -82,10 +82,14 @@ pwn总结这个笔记就是反复查阅、反复使用，总结下来的做题�
 
 部分页面会整理一下，但大部分都是处于未整理的状态。
 
-因为受不了老是要临时学新东西，又开了个分区打算系统学一下Linux，《linux/unix系统编程手册》这本书速看了一部分，也做了一些很随便的笔记。
+因为受不了老是要临时学新东西，又开了个分区打算系统学一下Linux，《linux/unix系统编程手册》这本书速看了一部分，之后又跟随网上的课程进一步学习linux和shell。
+
+并重新系统学习了c++，因为遇到过不少需要逆向分析c++的题目，未来可能需要进一步学习c++库函数的源码。
 
 ![linux中main是如何执行的](https://user-images.githubusercontent.com/39674475/223422134-bac80f3c-2684-4c93-bb04-166eea916059.png)
-![linux/unix系统编程手册](https://user-images.githubusercontent.com/39674475/223422313-bc54a2fd-2b01-418a-ac3e-0ae7a2684956.png)
+![c++ primer plys](https://github.com/dontminddontmind/onenote_pwn/assets/39674475/ecfc7a54-c9ee-4801-9e16-78bdfa4ec923)
+![image](https://github.com/dontminddontmind/onenote_pwn/assets/39674475/965079f4-5ad7-4d15-bc9b-432bd500efea)
+
 
 ### 调试
 主要是整理各种调试和运行的方法，qemu网上有很多教程，但总觉得好多名词搞不懂，搞不懂根本的原理，就慢慢整理调研。
