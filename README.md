@@ -34,6 +34,7 @@ onenote分享笔记真的好麻烦呀，
 re总结，则是记录自己刷逆向类ctf题的笔记，简单做了一些分类，但之后也没再看过了。
 
 ![逆向工程核心原理](https://user-images.githubusercontent.com/39674475/223420322-9f2d359c-33c3-46db-ac96-58bfebded789.png)
+![IDA](https://github.com/dontminddontmind/onenote_pwn/assets/39674475/535e8a5d-9407-4be8-9151-bca752bf315c)
 
 ### pwn做题方法论
 
@@ -118,6 +119,7 @@ youtube上有很多很有用的up主，感觉知识永远学不完：
 
 之后自学了部分内核源码和工作流程，了解了一些内核安全模块知识
 ![image](https://github.com/dontminddontmind/onenote_pwn/assets/39674475/976206af-c3f0-443c-ba66-3b25fc975c8e)
+![image](https://github.com/dontminddontmind/onenote_pwn/assets/39674475/fc6ce397-ee1e-434a-8e1a-67dc4b5c36e1)
 
 
 
