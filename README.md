@@ -83,7 +83,7 @@ ctf题中总有一堆杂七杂八的linux知识，比如各种类型的系统调
 
 因为受不了老是要临时学新东西，又开了个分区打算系统学一下Linux，《linux/unix系统编程手册》这本书速看了一部分，之后又跟随网上的课程进一步学习linux和shell。
 
-并重新系统学习了c++，因为遇到过不少需要逆向分析c++的题目，未来可能需要进一步学习c++库函数的源码。
+并重新系统学习了c++，因为遇到过不少需要逆向分析c++的题目，而且v8引擎、jdk就是用c++写的，未来可能需要进一步学习c++库函数的源码。
 
 ![linux中main是如何执行的](https://user-images.githubusercontent.com/39674475/223422134-bac80f3c-2684-4c93-bb04-166eea916059.png)
 ![c++ primer plys](https://github.com/dontminddontmind/onenote_pwn/assets/39674475/ecfc7a54-c9ee-4801-9e16-78bdfa4ec923)
