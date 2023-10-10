@@ -121,14 +121,22 @@ youtube上有很多很有用的up主，感觉知识永远学不完：
 
 ### kernel pwn
 不知道大家会不会这样，在做题看那些writeup时总是有一种难以用言语描述的淡淡的迷惑......
+
 为什么要做这些事情，他们到底是怎么想到这个解法的......
+
 经过补习kernel和linux的基础知识之后...终于，总算，看题有种豁然开朗，一切都联系起来了的感觉...
+
 终于找回做题的快乐了...
+
 ｡･ﾟ･(ﾉД`)ヽ(ﾟДﾟ )
+
 （当然，高兴只有一下下，接下来还是让人绝望的无穷无尽的学习）
 
+
 今后会慢慢跟着这个复现kernel的cve: [gamozolabs](https://github.com/bsauce/kernel-security-learning)
+
 xuanxuan的博客真的写得很好: [xuanxuanblingbling](https://xuanxuanblingbling.github.io/)
+
 天枢学长们的博客也写得很好
 
 
