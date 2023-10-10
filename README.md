@@ -133,7 +133,7 @@ youtube上有很多很有用的up主，感觉知识永远学不完：
 （当然，高兴只有一下下，接下来还是让人绝望的无穷无尽的学习）
 
 
-今后会慢慢跟着这个复现kernel的cve: [gamozolabs](https://github.com/bsauce/kernel-security-learning)
+今后会慢慢跟着这个复现kernel的cve: [kernel-security-learning](https://github.com/bsauce/kernel-security-learning)
 
 xuanxuan的博客真的写得很好: [xuanxuanblingbling](https://xuanxuanblingbling.github.io/)
 
