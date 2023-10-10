@@ -79,9 +79,7 @@ pwn总结这个笔记就是反复查阅、反复使用，总结下来的做题�
 
 ### linux和c知识
 
-这部分的笔记有点乱，因为ctf题中总有一堆杂七杂八的linux知识，比如各种类型的系统调用、libc库函数、文件系统等等等等。
-
-部分页面会整理一下，但大部分都是处于未整理的状态。
+ctf题中总有一堆杂七杂八的linux知识，比如各种类型的系统调用、libc库函数、文件系统等等等等。
 
 因为受不了老是要临时学新东西，又开了个分区打算系统学一下Linux，《linux/unix系统编程手册》这本书速看了一部分，之后又跟随网上的课程进一步学习linux和shell。
 
@@ -112,7 +110,7 @@ pwn总结这个笔记就是反复查阅、反复使用，总结下来的做题�
 youtube上有很多很有用的up主，感觉知识永远学不完：
 
 * [gamozolabs](https://www.youtube.com/@gamozolabs)，直播写fuzz程序，kernel fuzz之类的，很有用
-* [BenEater](https://www.youtube.com/@BenEater)，从零造一台计算机，很好玩， [国内有人翻译](https://space.bilibili.com/413461202/) ，他的频道可以很快乐地动手从零开始学数字电路等知识
+* [BenEater](https://www.youtube.com/@BenEater)，从零造一台计算机，很好玩， [国内有人翻译](https://space.bilibili.com/413461202/) ，他的频道可以很快乐地动手从零开始学数字电路，计算机体系结构等知识
 * [LiveOverflow](https://www.youtube.com/@LiveOverflow)，pwn方向up主，讲得很通俗易懂，还很精彩
 
 还有很多，就不举例了，看完一个就要不少时间
@@ -121,6 +119,16 @@ youtube上有很多很有用的up主，感觉知识永远学不完：
 ![image](https://github.com/dontminddontmind/onenote_pwn/assets/39674475/976206af-c3f0-443c-ba66-3b25fc975c8e)
 ![image](https://github.com/dontminddontmind/onenote_pwn/assets/39674475/fc6ce397-ee1e-434a-8e1a-67dc4b5c36e1)
 
+### kernel pwn
+不知道大家会不会这样，在做题看那些writeup时总是有一种难以用言语描述的淡淡的迷惑......
+为什么要做这些事情，他们到底是怎么想到这个解法的......
+经过补习kernel和linux的基础知识之后...终于，总算，看题有种豁然开朗，一切都联系起来了的感觉...
+终于找回做题的快乐了...
+｡･ﾟ･(ﾉД`)ヽ(ﾟДﾟ )
+（当然，高兴只有一下下，接下来还是让人绝望的无穷无尽的学习）
 
+今后会慢慢跟着这个复现kernel的cve: [gamozolabs](https://github.com/bsauce/kernel-security-learning)
+xuanxuan的博客真的写得很好: [xuanxuanblingbling](https://xuanxuanblingbling.github.io/)
+天枢学长们的博客也写得很好
 
 
